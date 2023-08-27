@@ -1,5 +1,5 @@
 
-[![MasterHead](https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg)]
+[![MasterHead]([https://img.freepik.com/premium-vector/colorful-banner-with-hands-working-computer-different-electronic-gadgets-devices-symbols-programming-software-development-program-coding_198278-4192.jpg](https://miro.medium.com/v2/resize:fit:900/0*xboC34kJrPWrY4J-.gif))]
 <h1 align="center">Hi 👋, I'm MD. Roqunuzzaman Sojib</h1>
 <h3 align="center">Currently a level 3 Computer Science and Engineering Student , studying in Bangladesh University of Engineering and Technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
