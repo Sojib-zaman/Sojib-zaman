@@ -26,7 +26,7 @@
 <a href="https://kaggle.com/mdroqunuzzamansojib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mdroqunuzzamansojib" height="30" width="40" /></a>
 <a href="https://fb.com/roqunurzaman.sojib/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roqunurzaman.sojib/" height="30" width="40" /></a>
 <a href="https://instagram.com/sojib_67" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sojib_67" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/sojib zaman](https://youtube.com/@sojibzaman4076?si=xaoVbhE6YItrvQHX)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sojib zaman" height="30" width="40" /></a>
+<a href="https://youtube.com/@sojibzaman4076?si=xaoVbhE6YItrvQHX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sojib zaman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
