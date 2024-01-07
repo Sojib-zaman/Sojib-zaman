@@ -3,7 +3,7 @@
   <img src="https://miro.medium.com/v2/resize:fit:900/0*xboC34kJrPWrY4J-.gif" alt="MasterHead" width="100%">
 </div>
 <h1 align="center">Hi 👋, I'm MD. Roqunuzzaman Sojib</h1>
-<h3 align="center">Currently a level 3 Computer Science and Engineering Student , studying in Bangladesh University of Engineering and Technology.</h3>
+<h3 align="center">Currently a level 4 Computer Science and Engineering Student , studying in Bangladesh University of Engineering and Technology.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sojib-zaman&label=Profile%20views&color=72b40e&style=plastic" alt="sojib-zaman" /> </p>
 
